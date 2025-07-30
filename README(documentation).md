@@ -1,5 +1,6 @@
 Simple Calculator in C — Code Documentation
 Assignment: Open Source C Project Calculator Analysis
+Link (Open source project) - https://github.com/Anish-Paul-01/Simple-Calculator-in-C
 
 Introduction
 For this assignment, I selected an open-source C project from GitHub that implements a basic calculator. The repository I chose is Simple-Calculator-in-C by Anish-Paul-01. I downloaded the project, analyzed its code, and documented how each part works. Below is my detailed explanation of the code structure and the logic behind each section.
